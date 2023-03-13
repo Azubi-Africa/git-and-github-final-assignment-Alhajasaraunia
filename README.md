@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Sales_planning_Project | In this project, I simulated a sales and operations planning using the zero-stock level strategy. |https://github.com/Alhajasaraunia/Sales_Planning_Project  |
+| 2 | Caesars_Cipher_Encryption|  The IT team needs to comply with the companies' policies on data privacy, your boss tasks you to write an algorithm to encrypt and decrypt its internal messages using Caesar's Cipher.| https://github.com/Alhajasaraunia/Caesars_Cipher_EncryptionS |
+| 3 |Mortgage_calculator|Developing a program to make mortgage calculatioion |https://github.com/Alhajasaraunia/Mortgage_calculator|
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
